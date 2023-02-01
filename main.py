@@ -14,4 +14,4 @@ for i in range(ticket_count):
 if ticket_count > 3:
     total_cost = total_cost * 0.9
 
-print("Общая стоимость:", total_cost, "рублёв")
+print("Общая стоимость:", total_cost, "рублей")
